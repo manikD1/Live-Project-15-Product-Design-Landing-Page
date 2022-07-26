@@ -43,9 +43,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Product Design Landing Page]()
+- [Product Design Landing Page](https://live-proj-15-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Actual-Screenshot.JPG)
