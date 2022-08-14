@@ -49,7 +49,7 @@
 ***
 ## **📷 Post Designing Screenshots 📷**
 
-![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Actual-Screenshot.JPG)
+![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Actual-Screenshot-0.JPG)
 
 ![](https://github.com/manikD1/Live-Project-15-Product-Design-Landing-Page/blob/main/Screenshots/Actual-Screenshot-1.JPG)
 
